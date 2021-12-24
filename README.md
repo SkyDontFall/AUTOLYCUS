@@ -4,7 +4,7 @@ A simple and quick Torrent to Google Drive Dowloader using Google Colab.
 
 To access Autolycus click HERE:
 
-<a href="https://colab.research.google.com/gist/CrazyCoder009/3ae848f93572cf324307aadcfa4563ca/qgdd.ipynb">
+<a href="https://colab.research.google.com/gist/SkyDontFall/f8e8b045d5029347de4f2e101aba3bc8/qgdd.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -19,7 +19,7 @@ https://colab.research.google.com/gist/CrazyCoder009/3ae848f93572cf324307aadcfa4
 
 1. Copy Magnet Link of the Item of download from piratesbay/etc.
 
- 2. Click on <a href="https://colab.research.google.com/gist/CrazyCoder009/3ae848f93572cf324307aadcfa4563ca/qgdd.ipynb">
+ 2. Click on <a href="https://colab.research.google.com/gist/SkyDontFall/f8e8b045d5029347de4f2e101aba3bc8/qgdd.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a> .
 
